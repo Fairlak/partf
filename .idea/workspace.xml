@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43d5faf6-ac69-47dc-98b1-f47edd962f56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LC78yLaXEXn3Cxsxwn53znG3uP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Program/partf&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d5faf6-ac69-47dc-98b1-f47edd962f56" name="Changes" comment="" />
+      <created>1675363055149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675363055149</updated>
+      <workItem from="1675363056383" duration="1454000" />
+      <workItem from="1675441620040" duration="597000" />
+      <workItem from="1675454062849" duration="1192000" />
+      <workItem from="1675676723010" duration="4090000" />
+      <workItem from="1675683769080" duration="600000" />
+      <workItem from="1676839432326" duration="10000" />
+      <workItem from="1677005916877" duration="22000" />
+      <workItem from="1677872259107" duration="6064000" />
+      <workItem from="1678048102289" duration="2281000" />
+      <workItem from="1678128132957" duration="1192000" />
+      <workItem from="1678133686207" duration="2198000" />
+      <workItem from="1678181246617" duration="2591000" />
+      <workItem from="1678641596021" duration="449000" />
+      <workItem from="1679224162886" duration="1227000" />
+      <workItem from="1679422541055" duration="1000" />
+      <workItem from="1679422711876" duration="90000" />
+      <workItem from="1679676815775" duration="38000" />
+      <workItem from="1680288103956" duration="618000" />
+      <workItem from="1680545385911" duration="611000" />
+      <workItem from="1680626208418" duration="2028000" />
+      <workItem from="1680630409026" duration="6000" />
+      <workItem from="1680632509577" duration="2100000" />
+      <workItem from="1680718068157" duration="2027000" />
+      <workItem from="1680726103451" duration="825000" />
+      <workItem from="1680803708513" duration="709000" />
+      <workItem from="1680804430067" duration="3478000" />
+      <workItem from="1680849452980" duration="9045000" />
+      <workItem from="1680879948053" duration="595000" />
+      <workItem from="1680884667309" duration="2144000" />
+      <workItem from="1680894110013" duration="410000" />
+      <workItem from="1680964434233" duration="1861000" />
+      <workItem from="1681030808080" duration="139000" />
+      <workItem from="1681032762172" duration="594000" />
+      <workItem from="1681042203283" duration="8268000" />
+      <workItem from="1681058851975" duration="1195000" />
+      <workItem from="1681221955568" duration="596000" />
+      <workItem from="1681409146875" duration="663000" />
+      <workItem from="1681576997887" duration="51000" />
+      <workItem from="1681582968569" duration="1300000" />
+      <workItem from="1682147158268" duration="10000" />
+      <workItem from="1682246790861" duration="165000" />
+      <workItem from="1682247590393" duration="3085000" />
+      <workItem from="1682318510828" duration="1022000" />
+      <workItem from="1682614759397" duration="642000" />
+      <workItem from="1684871784014" duration="35000" />
+      <workItem from="1686486564852" duration="666000" />
+      <workItem from="1691773106069" duration="53000" />
+      <workItem from="1694118264960" duration="8000" />
+      <workItem from="1694118293817" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

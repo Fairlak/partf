@@ -1,0 +1,37 @@
+main h1 {
+    position: absolute;
+    width: 872px;
+    height: 65px;
+    left: 90px;
+    top: 70px;
+
+    font-family: 'Tomorrow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+main img {
+    position: absolute;
+    width: 872px;
+    height: 450px;
+    top: 150px;
+    left: 72px;
+    color: #FFFFFF;
+}
+
+div {
+    box-sizing: border-box;
+    position: absolute;
+    width: 876px;
+    height: 503px;
+    top: 100px;
+    left: 70px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+}
+
